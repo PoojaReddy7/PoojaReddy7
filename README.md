@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning skills...
 - 📫 How to reach me ...
 -> linkedin url: https://www.linkedin.com/in/pooja-reddy-42b366278/
+
 -> Portfolio: https://portfolio-egdk.onrender.com/
 
 <img src="https://img.shields.io/badge/-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-663399?logo=CSS3&logoColor=fff">
